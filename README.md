@@ -1,3 +1,4 @@
+![CI](https://github.com/kriskimmerle/agent-security-patterns/actions/workflows/test.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 # Agent Security Patterns
