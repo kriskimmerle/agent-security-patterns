@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 # Agent Security Patterns
 
 A practical reference for securing autonomous AI agents against real-world attacks.
